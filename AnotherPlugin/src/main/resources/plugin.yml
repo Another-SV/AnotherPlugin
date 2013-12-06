@@ -1,3 +1,7 @@
 name: AnotherPlugin
 main: com.anothersv.anotherplugin.AnotherPlugin
 version: alfa
+commands:
+  ping:
+    description: "Mostra seu ping atual."
+    usage: /<command> [player]
