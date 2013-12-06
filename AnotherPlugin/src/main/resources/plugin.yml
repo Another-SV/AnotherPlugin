@@ -1,0 +1,3 @@
+name: AnotherPlugin
+main: com.anothersv.anotherplugin.AnotherPlugin
+version: alfa
